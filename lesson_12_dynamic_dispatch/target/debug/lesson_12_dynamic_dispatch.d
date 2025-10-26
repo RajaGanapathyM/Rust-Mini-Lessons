@@ -1,0 +1,1 @@
+G:\Rust-Mini-Lesson\lesson_12_dynamic_dispatch\target\debug\lesson_12_dynamic_dispatch.exe: G:\Rust-Mini-Lesson\lesson_12_dynamic_dispatch\src\gui.rs G:\Rust-Mini-Lesson\lesson_12_dynamic_dispatch\src\main.rs
